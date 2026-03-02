@@ -4,12 +4,15 @@ tags: post
 title: "What is Understanding?"
 date: 2021-10-07
 excerpt: "Perkins and Unger's framework for understanding as performance — and how it shifts focus from passive knowledge to active application."
+thumbnail: "/images/posts/what-is-understanding.jpg"
 ---
 
 <article class="post">
 <div class="section-inner">
 
 # What is Understanding?
+
+<img src="{{ '/images/posts/what-is-understanding.jpg' | url }}" alt="Student engaged in learning" class="post-featured-image" />
 
 ## Understanding as Performance
 

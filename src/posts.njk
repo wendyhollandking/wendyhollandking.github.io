@@ -16,9 +16,16 @@ title: Blog — Wendy King
     <div class="blog-list">
       {% for post in collections.post | reverse %}
       <a href="{{ post.url | url }}" class="blog-list-item">
-        <div class="blog-date">{{ post.date | dateFormat }}</div>
-        <div class="blog-title">{{ post.data.title }}</div>
-        <p class="blog-excerpt">{{ post.data.excerpt }}</p>
+        {% if post.data.thumbnail %}
+        <div class="blog-list-thumb">
+          <img src="{{ post.data.thumbnail | url }}" alt="{{ post.data.title }}" />
+        </div>
+        {% endif %}
+        <div class="blog-list-content">
+          <div class="blog-date">{{ post.date | dateFormat }}</div>
+          <div class="blog-title">{{ post.data.title }}</div>
+          <p class="blog-excerpt">{{ post.data.excerpt }}</p>
+        </div>
       </a>
       {% endfor %}
     </div>

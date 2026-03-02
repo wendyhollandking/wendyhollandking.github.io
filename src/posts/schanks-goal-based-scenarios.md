@@ -4,12 +4,15 @@ tags: post
 title: "Schank's Goal-Based Scenarios"
 date: 2021-10-07
 excerpt: "Exploring Schank's case-based reasoning theory and goal-based scenarios — and how they transform Social Studies instruction."
+thumbnail: "/images/posts/goal-based-scenarios.jpg"
 ---
 
 <article class="post">
 <div class="section-inner">
 
 # Schank's Goal-Based Scenarios
+
+<img src="{{ '/images/posts/goal-based-scenarios.jpg' | url }}" alt="Web design and learning scenarios" class="post-featured-image" />
 
 ## The Scenario
 
@@ -31,8 +34,8 @@ Here are several GBS applications in Social Studies:
 
 - **Community activism projects** — Students select local issues and conduct research before presenting findings at town hall meetings
 - **Realistic scenarios** — News broadcast assignments where students investigate historical events like Gandhi's assassination
-- **Mystery activities** — Questions such as "Was the Boston Massacre sentencing appropriate?" requiring primary source analysis
-- **Provocative openings** — Classes begin with compelling questions leading to document-based inquiry
+- **Mystery activities** — Drawing from [William & Mary's Historical Scene Investigation](https://hsi.wm.edu/), questions such as "Was the Boston Massacre sentencing appropriate?" requiring primary source analysis
+- **Provocative openings** — Using materials from the [Stanford History Education Group](https://sheg.stanford.edu/history-lessons), classes begin with compelling questions leading to document-based inquiry
 
 ## Addressing Limitations
 

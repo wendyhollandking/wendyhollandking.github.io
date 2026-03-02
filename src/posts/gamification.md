@@ -4,12 +4,15 @@ tags: post
 title: "Gamification"
 date: 2021-10-23
 excerpt: "Exploring gamification in education — what it is, why it works, its challenges, and a practical plan for an exercise program using game mechanics."
+thumbnail: "/images/posts/gamification.jpg"
 ---
 
 <article class="post">
 <div class="section-inner">
 
 # Gamification
+
+<img src="{{ '/images/posts/gamification.jpg' | url }}" alt="Colorful game pieces" class="post-featured-image" />
 
 ## Resources
 
@@ -20,6 +23,7 @@ excerpt: "Exploring gamification in education — what it is, why it works, its 
 5. [NYTimes — Gamification Done Right](http://open.blogs.nytimes.com/2013/06/11/gamification-done-right/?_r=2)
 6. [Gamification — Is it a trend that has already peaked?](http://www.edtechmagazine.com/k12/article/2015/06/k-12-nmc-horizon-report-preview-it-game-over-gamification)
 7. [Onboarding lessons from classic Nintendo games](https://www.appcues.com/blog/3-fundamental-user-onboarding-lessons-from-classic-nintendo-games)
+8. [Gamification overview video](https://www.youtube.com/watch?v=MuDLw1zIc94&index=41&list=PLB9B0CA00461BB187)
 
 ## Summary of Gamification
 

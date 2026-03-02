@@ -4,6 +4,7 @@ tags: post
 title: "Evaluation of OpenStax US History"
 date: 2022-04-24
 excerpt: "A final assignment evaluating OpenStax U.S. History through the lens of Merrill's First Principles and Schank's Goal-Based Learning."
+thumbnail: "/images/posts/evaluation-openstax.jpg"
 ---
 
 <article class="post">
@@ -11,14 +12,13 @@ excerpt: "A final assignment evaluating OpenStax U.S. History through the lens o
 
 # Evaluation of OpenStax US History
 
-For my 6101 Learning Principles in Learning, Design and Technology class, I completed a final assignment evaluating online learning materials through the lens of established learning theories.
+<img src="{{ '/images/posts/evaluation-openstax.jpg' | url }}" alt="Stack of history books" class="post-featured-image" />
 
-The evaluation examines OpenStax U.S. History by applying two theoretical frameworks:
+For this 6101 Learning Principles in Learning, Design and Technology class, we had a final task to evaluate online learning materials by applying some of the theories learned about in class.
 
-1. **Merrill's First Principles of Instruction** — An evidence-based approach to instructional design
-2. **Schank's Goal-Based Learning** — A model emphasizing learning through goal-directed scenarios
+I chose to examine [OpenStax U.S. History](https://openstax.org/details/books/us-history) using Merrill's First Principles of Instruction and Schank's goal-based learning.
 
-The detailed analysis is available in [a Google Docs paper](https://docs.google.com/document/d/156Vw0ZNNBvOaCoPf0HXbg9-2_zRLP7h05YKUksc9ffE/edit) that applies these theoretical frameworks to evaluate the OpenStax resource's effectiveness as an online learning tool.
+The detailed analysis is available in [the full paper on Google Docs](https://docs.google.com/document/d/156Vw0ZNNBvOaCoPf0HXbg9-2_zRLP7h05YKUksc9ffE/edit).
 
 </div>
 </article>

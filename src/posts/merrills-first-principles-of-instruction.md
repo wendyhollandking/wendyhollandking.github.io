@@ -4,12 +4,15 @@ tags: post
 title: "Merrill's First Principles of Instruction"
 date: 2021-10-07
 excerpt: "Dr. David Merrill's five principles for effective instruction — task-centered, activation, demonstration, application, and integration."
+thumbnail: "/images/posts/merrills-principles.jpg"
 ---
 
 <article class="post">
 <div class="section-inner">
 
 # Merrill's First Principles of Instruction
+
+<img src="{{ '/images/posts/merrills-principles.jpg' | url }}" alt="Student learning in classroom" class="post-featured-image" />
 
 ## Overview
 
@@ -40,9 +43,10 @@ Historian Katharina Matro's experience illustrates this principle's power. Initi
 ## References
 
 - Gardner, J. (2010). Applying Merrill's first principles of instruction. *Educational Technology*, 20-25.
-- Matro, K. (2021). Teaching content, teaching skills: What I learned in my first five years. *Perspectives on History*, September 2021.
+- Matro, K. (2021). [Teaching content, teaching skills: What I learned in my first five years in the high school classroom](https://www.historians.org/publications-and-directories/perspectives-on-history/september-2021/teaching-content-teaching-skills-what-i-learned-in-my-first-five-years-in-the-high-school-classroom). *Perspectives on History*, September 2021.
 - Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development*, 50(3), 43-59.
 - Merrill, M.D. (2009). First principles of instruction. In C. M. Reigeluth & A. A. Carr-Chellman (Eds.), *Instructional-design theories and models* (Vol. 3, pp. 41-56). Routledge.
+- Merrill, M.D. [Merrill on Instructional Design](https://www.youtube.com/watch?v=i_TKaO2-jXA) [Video].
 
 </div>
 </article>

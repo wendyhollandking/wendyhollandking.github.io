@@ -1,0 +1,39 @@
+---
+layout: base.njk
+title: Portfolio — Wendy King
+---
+
+<!-- PAGE HERO -->
+<section class="page-hero">
+  <div class="page-hero-inner">
+    <div class="section-eyebrow">Portfolio</div>
+    <h1>Projects that <em>move</em> the needle.</h1>
+    <p>From interactive history simulations to full course builds and AI-powered learning games, here's a collection of projects I've designed and developed.</p>
+  </div>
+</section>
+
+<!-- PROJECTS LIST -->
+<section class="section">
+  <div class="section-inner">
+    <div class="projects-grid">
+      {%- for project in collections.project | reverse %}
+      <a href="{{ project.url | url }}" class="project-card">
+        {% if project.data.thumbnail %}
+        <div class="project-card-thumb">
+          <img src="{{ project.data.thumbnail | url }}" alt="{{ project.data.title }}" />
+        </div>
+        {% else %}
+        <div class="project-card-thumb project-card-thumb-placeholder">
+          <span>&#x1f4cb;</span>
+        </div>
+        {% endif %}
+        <div class="project-card-body">
+          <span class="card-tag">{{ project.data.category }}</span>
+          <div class="card-title">{{ project.data.title }}</div>
+          <p class="card-desc">{{ project.data.excerpt }}</p>
+        </div>
+      </a>
+      {%- endfor %}
+    </div>
+  </div>
+</section>

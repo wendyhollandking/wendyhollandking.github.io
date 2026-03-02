@@ -4,6 +4,7 @@ tags: post
 title: "Flexible Adaptive Instructional Design and the STAR Legacy Software"
 date: 2021-10-07
 excerpt: "Examining how the STAR Legacy software model by Bransford was applied in a lifespan development course with interactive learning objects."
+thumbnail: "/images/posts/flexible-adaptive.jpg"
 ---
 
 <article class="post">
@@ -11,7 +12,9 @@ excerpt: "Examining how the STAR Legacy software model by Bransford was applied 
 
 # Flexible Adaptive Instructional Design and the STAR Legacy Software (Bransford)
 
-This post examines how the STAR Legacy software model, developed by Bransford and colleagues, was applied in a lifespan development course where students created interactive learning objects using h5p.org.
+<img src="{{ '/images/posts/flexible-adaptive.jpg' | url }}" alt="Computer screen showing adaptive learning" class="post-featured-image" />
+
+This post examines how the STAR Legacy software model, developed by Bransford and colleagues, was applied in a lifespan development course where students created interactive learning objects using [h5p.org](https://h5p.org).
 
 ## Course Implementation
 

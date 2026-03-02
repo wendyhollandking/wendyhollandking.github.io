@@ -4,6 +4,7 @@ tags: post
 title: "Playing Catchup"
 date: 2026-02-18
 excerpt: "It has been much too long since I've written here. The truth is, I've been deep in the work, and the work has been changing quickly!"
+thumbnail: "/images/posts/playing-catchup.jpg"
 ---
 
 <article class="post">

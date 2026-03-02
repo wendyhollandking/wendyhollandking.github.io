@@ -15,6 +15,7 @@ title: Wendy King — Learning Design
     </div>
   </div>
   <div class="hero-visual">
+    <div class="hero-visual-bubble"></div>
     <div class="hero-photo-frame">
       <div class="hero-photo-bg"></div>
       <div class="hero-photo-accent"></div>
@@ -63,28 +64,34 @@ title: Wendy King — Learning Design
     <a href="{{ '/projects/' | url }}" class="btn-secondary">View All Projects &rarr;</a>
   </div>
   <div class="portfolio-grid">
-    <a href="#" class="portfolio-card">
-      <div class="card-thumb thumb-1">&#x1f3db;&#xfe0f;</div>
+    <a href="{{ '/projects/history-timeline-challenge/' | url }}" class="portfolio-card">
+      <div class="card-thumb thumb-1">
+        <img src="{{ '/images/projects/history-timeline-challenge.png' | url }}" alt="History Timeline Challenge" style="width:100%;height:100%;object-fit:cover;" />
+      </div>
       <div class="card-body">
-        <span class="card-tag">Game / Simulation</span>
-        <div class="card-title">The Berlin Airlift Game</div>
-        <p class="card-desc">An interactive decision-making simulation that puts students in the shoes of Cold War diplomats.</p>
+        <span class="card-tag">Game / AI-Built</span>
+        <div class="card-title">History Timeline Challenge</div>
+        <p class="card-desc">An interactive history game built with Claude Code, testing students' knowledge of historical event timelines.</p>
       </div>
     </a>
-    <a href="#" class="portfolio-card">
-      <div class="card-thumb thumb-2">&#x1f50d;</div>
+    <a href="{{ '/projects/clinical-interview-sim/' | url }}" class="portfolio-card">
+      <div class="card-thumb thumb-2">
+        <img src="{{ '/images/projects/clinical-interview-sim.png' | url }}" alt="Clinical Interview Simulation" style="width:100%;height:100%;object-fit:cover;" />
+      </div>
       <div class="card-body">
-        <span class="card-tag">Interactive Mystery</span>
-        <div class="card-title">Revolutionary History Mystery</div>
-        <p class="card-desc">A Genially-based investigation activity weaving primary sources into an engaging historical narrative.</p>
+        <span class="card-tag">AI Simulation</span>
+        <div class="card-title">Clinical Interview Simulation</div>
+        <p class="card-desc">An AI-powered diagnostic practice activity where students interview a simulated patient, built with Claude Code.</p>
       </div>
     </a>
-    <a href="#" class="portfolio-card">
-      <div class="card-thumb thumb-3">&#x1f4da;</div>
+    <a href="{{ '/projects/capstone-succeeding-with-waymaker/' | url }}" class="portfolio-card">
+      <div class="card-thumb thumb-3">
+        <img src="{{ '/images/projects/capstone-waymaker.png' | url }}" alt="Succeeding With Waymaker" style="width:100%;height:100%;object-fit:cover;" />
+      </div>
       <div class="card-body">
-        <span class="card-tag">Full Course</span>
-        <div class="card-title">U.S. History Course Creation</div>
-        <p class="card-desc">End-to-end course design using OER materials, built for accessibility and student engagement.</p>
+        <span class="card-tag">Capstone Project</span>
+        <div class="card-title">Succeeding With Waymaker</div>
+        <p class="card-desc">A complete redesign of Lumen Learning's introductory module using the ADDIE model.</p>
       </div>
     </a>
   </div>
@@ -96,7 +103,9 @@ title: Wendy King — Learning Design
     <div class="about-text">
       <div class="section-eyebrow">About Me</div>
       <h2>I build learning that <em>performs.</em></h2>
-      <p class="section-intro">At Lumen Learning, I design and lead the development of high-enrollment digital courses across the social sciences. I've also taught the products I build — as an adjunct professor at Davidson College, I piloted my own course design in a live classroom. That experience shapes everything I create.</p>
+      <p class="section-intro">At Lumen Learning, I design and lead the development of high-enrollment digital courses across the social sciences.</p>
+      <p class="section-intro">I've also taught the products I build — as an adjunct professor at Davidson College, I piloted my own course design in a face-to-face classroom.</p>
+      <p class="section-intro">From conference presentations to live classrooms to AI-assisted courseware, I've always been most at home at the intersection of people, ideas, and technology.</p>
       <blockquote class="about-quote">"Learning is the only thing the mind never exhausts, never fears, and never regrets." — Leonardo Da Vinci</blockquote>
       <a href="{{ '/about/' | url }}" class="btn-primary">Read My Full Story &rarr;</a>
     </div>
@@ -113,26 +122,12 @@ title: Wendy King — Learning Design
         <div class="skill-item"><span class="skill-dot"></span>Cognitive Science &amp; Assessment</div>
         <div class="skill-item"><span class="skill-dot"></span>LMS Architecture</div>
         <div class="skill-item"><span class="skill-dot"></span>Branching Simulations</div>
+        <div class="skill-item"><span class="skill-dot"></span>UX Research &amp; Design Thinking</div>
+        <div class="skill-item"><span class="skill-dot"></span>Learning Analytics &amp; Data-Driven Design</div>
+        <div class="skill-item"><span class="skill-dot"></span>Accessibility &amp; Universal Design</div>
+        <div class="skill-item"><span class="skill-dot"></span>Public Speaking</div>
       </div>
     </div>
-  </div>
-</section>
-
-<!-- BLOG -->
-<section class="blog">
-  <div class="section-eyebrow">From the Blog</div>
-  <h2>Musings on <em>learning</em> and design.</h2>
-  <p class="section-intro">Thoughts on instructional design, educational technology, open education, and the occasional tangent.</p>
-  <div class="blog-grid">
-    {% for post in collections.post | reverse %}
-    {% if loop.index <= 3 %}
-    <a href="{{ post.url | url }}" class="blog-card">
-      <div class="blog-date">{{ post.date | dateFormat }}</div>
-      <div class="blog-title">{{ post.data.title }}</div>
-      <p class="blog-excerpt">{{ post.data.excerpt }}</p>
-    </a>
-    {% endif %}
-    {% endfor %}
   </div>
 </section>
 

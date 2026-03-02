@@ -4,6 +4,7 @@ tags: post
 title: "Gaming in the Classroom: EDrenaline Rush Book Review"
 date: 2022-04-16
 excerpt: "A review of EDrenaline Rush by John Meehan — exploring how theme parks, mud runs, and escape rooms can inspire student engagement."
+thumbnail: "/images/posts/gaming-classroom.png"
 ---
 
 <article class="post">
@@ -11,15 +12,13 @@ excerpt: "A review of EDrenaline Rush by John Meehan — exploring how theme par
 
 # Gaming in the Classroom: EDrenaline Rush Book Review
 
-This post reviews *EDrenaline Rush: Game-changing Student Engagement Inspired by Theme Parks, Mud Runs, and Escape Rooms* by John Meehan, which was assigned reading for a course on designing learning systems with simulation and game technology.
+<img src="{{ '/images/posts/gaming-classroom.png' | url }}" alt="EDrenaline Rush book cover" class="post-featured-image" />
 
-The book explores innovative approaches to making classroom learning more engaging and enjoyable. John Meehan draws inspiration from entertainment venues and experiential activities to transform educational experiences.
+For my Designing Learning Systems with Simulation and Game Technology course, I read *EDrenaline Rush: Game-changing Student Engagement Inspired by Theme Parks, Mud Runs, and Escape Rooms* by John Meehan. This book contained wonderful insights about making learning fun and really made me miss teaching high school.
 
-Meehan's work offers practical examples of how educators can incorporate game-like elements into instruction. His website (edrenalinerush.com) showcases various engaging activities successfully implemented in his own classroom.
+[John Meehan's website](https://edrenalinerush.com/) gives a lot of examples of the types of engaging activities he's used to much success in his classroom.
 
-The author includes a lot of examples of the types of engaging activities implemented in educational settings. A slideshow summary of the book's main concepts is available via Google Slides for those seeking a condensed overview.
-
-Engaging with this material sparked nostalgia for my high school teaching days, suggesting the book's content resonates with educators seeking to enhance student motivation and participation through immersive, game-inspired learning experiences.
+Check out my [slideshow summary of the book](https://docs.google.com/presentation/d/e/2PACX-1vR0rIxNPWWiYPxLwrVmmIuVK69Y9-rrHhxsO-jO12JPCJa8jwItdVK5fx5VkUbjh9kFYJ9Zsadln4WN/pub?start=false&loop=false&delayms=3000) for an overview of the main concepts.
 
 </div>
 </article>
