@@ -22,7 +22,7 @@ I chose to teach about a pretty obscure topic that I pulled from a video about h
 
 On the whole, I feel like a big tutorial about these concepts is probably superfluous, but it makes for an interesting lesson.
 
-[View the Connecting With History presentation](https://wendyhollandking-dot.github.io/connecting-with-history/story.html)
+[View the Connecting With History presentation](https://wendyhollandking.github.io/connecting-with-history/story.html)
 
 </div>
 </article>
