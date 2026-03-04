@@ -10,7 +10,7 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
-    pathPrefix: "/wendy-king/",
+    pathPrefix: "/",
     dir: {
       input: "src",
       includes: "_includes",
