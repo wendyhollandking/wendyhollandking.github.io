@@ -1653,6 +1653,17 @@ button:focus:not(:focus-visible) {
   font-style: italic;
 }
 
+.feedback-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--mid-gray);
+  margin-bottom: 0.5rem;
+}
+
+.collab-block { margin: 2rem 0; }
+
 .callout-quotes {
   display: grid;
   grid-template-columns: 1fr 1fr;
