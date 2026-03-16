@@ -16,5 +16,9 @@ thumbnail: "/images/posts/what-does-id-do.jpg"
 
 After learning about the role of instructional designers, I made a short video answering the question, "What do you do as an instructional designer?"
 
+<div class="video-embed">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/CGVTrfDBZW0" title="What Does an Instructional Designer Do?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 </div>
 </article>
