@@ -28,9 +28,9 @@ I led the migration of our entire Psychology catalog into Lumen One. That includ
 
 At the same time, I helped revamp Sociology and began building out our U.S. History catalog. Lumen One courses emphasize application much more heavily than our previous versions. Each module now includes "Apply It" activities and classroom-ready Instructor Guide materials, so I loved the challenge of developing content, assessments, interactives, and scenarios to fulfill this new need.
 
-I worked in H5P, Oppia, Twine, Lumen Ohm, and more recently, experimented with Claude Code to build branching scenarios, structured practice tools, and interactive activities. Some projects were polished. Some were scrappy prototypes. All of them were attempts to move students from passive reading to active thinking.
+I worked in H5P, Oppia, Twine, Lumen Ohm, and more recently, experimented with Claude Code to build branching scenarios, structured practice tools, and interactive activities. The projects ranged from polished to scrappy, but all of them were attempts to move students from passive reading to active thinking.
 
-What I've realized over the past few years is that I'm less interested in "content creation" and more interested in building learning systems — those experiences where students make decisions, get feedback, revise their thinking, and try again.
+I'm less interested in "content creation" these days and more interested in building learning systems — those experiences where students make decisions, get feedback, revise their thinking, and try again.
 
 AI has changed the texture of the work. At times, it can feel repetitive (there is only so much copying and pasting one person should do!). But more recently, the work feels more creative, though also more technical. It's iterative and expansive, and I often feel like there's no limit to what I could build. The real challenge now is focus: choosing what students truly need and ensuring that the things I create are aligned with what is actually needed and what will actually move learning forward.
 
