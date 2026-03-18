@@ -16,6 +16,17 @@ order: 3
 
 <img src="{{ '/images/projects/us-history-course.png' | url }}" alt="U.S. History Canvas course" class="post-featured-image" />
 
+<div class="problem-solution">
+  <div class="problem-solution-col">
+    <div class="section-eyebrow">The Problem</div>
+    <p>Online course templates are often designed for students but not for instructors, making them harder for teachers to navigate and teach from.</p>
+  </div>
+  <div class="problem-solution-col">
+    <div class="section-eyebrow">The Solution</div>
+    <p>A full Canvas course shell built around Quality Matters standards, with deliberate attention to instructor usability alongside student experience.</p>
+  </div>
+</div>
+
 Our major project in 6150 Design, Development, and Evaluation of Online Learning Systems consisted of actually creating an online course. Since I've been working on building a U.S. History course for work, it made sense to create a shell for that inside of Canvas.
 
 It was a great exercise to put myself in the shoes of the actual teacher instead of just the instructional designer, and I learned that I want to design courses that are better templated for teacher consumption (as well as for the students).

@@ -16,6 +16,17 @@ order: 8
 
 <img src="{{ '/images/projects/adobe-captivate.png' | url }}" alt="Adobe Captivate lesson screenshot" class="post-featured-image" />
 
+<div class="problem-solution">
+  <div class="problem-solution-col">
+    <div class="section-eyebrow">The Problem</div>
+    <p>Students learning history often lack a framework for engaging with events beyond memorizing them.</p>
+  </div>
+  <div class="problem-solution-col">
+    <div class="section-eyebrow">The Solution</div>
+    <p>A multimedia lesson in Adobe Captivate introducing the DCS model (Description, Context, Significance) for analyzing and connecting with historical events.</p>
+  </div>
+</div>
+
 For this project in ELDT 6130 Instructional Multimedia Development, I spent countless hours getting to know Adobe Captivate. I learned a lot about its capabilities and feel like I could easily spend another few years of my life getting more acquainted with everything that it can do. This was a great first test run of the program.
 
 I chose to teach about a pretty obscure topic that I pulled from a video about history that I once saw online. In the video, the professor spoke about how learning history should really be focused on knowing how to describe events, putting them in the context of how they happened, and then discussing their significance. From that, I made up the DCS model, which explains each of these components: Description, Context, and Significance.
