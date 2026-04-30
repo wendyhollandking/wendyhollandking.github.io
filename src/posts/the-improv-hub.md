@@ -20,7 +20,7 @@ I'm not an improv expert, but my 6th grade daughter is a huge fan of the art for
 
 I quickly found that there are very few centralized resources that help to teach about improv or comedy. I was certainly not the only teacher or parent in the world thrown into this new opportunity, and there had to be materials out there. I found a handful of ideas here and there, but nothing quite like what I wanted to see. So... I built a new website.
 
-The Improv Hub is a browser-based resource for anyone who wants to learn or teach improv. It's geared toward teens (middle and high school), but the content works for anyone who's starting out, including parents, teachers, and class instructors. The site has a few main sections:
+[The Improv Hub](https://wendyhollandking.github.io/the-improv-hub/index.html) is a browser-based resource for anyone who wants to learn or teach improv. It's geared toward teens (middle and high school), but the content works for anyone who's starting out, including parents, teachers, and class instructors. The site has a few main sections:
 
 * Six learning modules that cover the basics of improv, from getting comfortable being silly all the way through sketch comedy. Each module has a short lesson, a video example, a game to try, and a reflection. I decided to build these after I developed roughly this same template/outline for teaching the class of middle schoolers.
 * A games library with 34 improv games, each with rules, examples, variations, and a dozen or so starter prompts. You can filter by category (warm-ups, characters, scenes, comedy) or look for games that work for smaller groups. I wanted this to be the kind of thing where a teacher or a group of friends could open it up, pick a game, and start playing.
