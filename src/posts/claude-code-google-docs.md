@@ -10,8 +10,7 @@ thumbnail: "/images/posts/google-docs-api.jpg"
 <article class="post">
 <div class="section-inner">
 
-# How I Used Claude Code to Write Directly Into Google Docs (Without Breaking Everything)
-
+# How I Used Claude Code to Write Directly Into Google Docs
 <img src="{{ '/images/posts/google-docs-api.jpg' | url }}" alt="Document and writing workspace" class="post-featured-image" />
 
 I've been working on a project that involves creating detailed instructor guides for a US History course — think structured lesson activities, worksheets, discussion prompts, teaching notes, etc., all living in Google Docs. There are a lot of small components, and while I'm working with a subject matter expert to help curate some of the content, there are still activities and pieces I'm mocking up on my own.
