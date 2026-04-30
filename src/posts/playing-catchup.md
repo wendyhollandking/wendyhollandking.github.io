@@ -30,8 +30,7 @@ At the same time, I helped revamp Sociology and began building out our U.S. Hist
 
 I worked in H5P, Oppia, Twine, Lumen Ohm, and more recently, experimented with Claude Code to build branching scenarios, structured practice tools, and interactive activities. The projects ranged from polished to scrappy, but all of them were attempts to move students from passive reading to active thinking.
 
-AI has changed the texture of the work. At times, it can feel repetitive (there is only so much copying and pasting one person should do!). But more recently, the work feels more creative, though also more technical. It's iterative and expansive, and I often feel like there's no limit to what I could build. The real challenge now is focus: choosing what students truly need and ensuring that the things I create are aligned with what is actually needed and what will actually move learning forward.
-
+AI has changed the texture of the work. At times, it can feel repetitive (there is only so much copying and pasting one person should do!). But more recently, the work feels more creative, though also more technical. It's iterative and expansive, and I often feel like there's no limit to what I could build.
 There is still so much to learn, and I'm here for it. Just last week, I had AI help me design a personal learning plan to deepen my technical skills — strengthening my understanding of JavaScript, Python, CSS, and how to build more confidently within GitHub.
 
 And I'm excited about where this next stretch of work is heading. Since I'm learning so much, I thought I'd be better about sharing some more of the process along the way.
