@@ -27,7 +27,7 @@ order: 1
   </div>
 </div>
 
-For my capstone work, I've created a module that introduces students to Lumen Learning's Waymaker platform.
+For my capstone work, I created a module that introduces students to Lumen Learning's Waymaker platform.
 
 Designing a new Succeeding With Waymaker module involved the careful application of the ADDIE model and a complete revamp of the existing materials. For the project, I interviewed Lumen employees, students, and faculty, [authored new content inside of a WordPress platform](https://courses.lumenlearning.com/succeeding-with-waymaker/), wrote over 45 assessment items, [designed slide presentations](https://drive.google.com/drive/folders/1r8NiYrB6z5vNxFL_IjHu-abn_relRezR?usp=sharing), [recorded 5 instructional videos](https://www.youtube.com/playlist?list=PL7Xv4ZtgRLGRXXxEHQVQTLJojKfYdw81m), [created a Canvas course](https://lumen.instructure.com/enroll/PK3Y9W), and collected feedback from over 10 students and designers. It has been a large but valuable undertaking.
 
