@@ -26,11 +26,7 @@ April was an incredible month! I enjoyed a month-long sabbatical (a 10-year anni
 
 <img src="{{ '/images/canals.jpeg' | url }}" alt="Family at an Amsterdam canal" class="post-inline-image" />
 
-<img src="{{ '/images/stroopwafels.jpeg' | url }}" alt="Group at Zaanse Schans windmills, eating stroopwafels" class="post-inline-image" />
-
 <img src="{{ '/images/tulipstop.jpeg' | url }}" alt="Group at the Dutch tulip fields with a cargo bike" class="post-inline-image" />
-
-<img src="{{ '/images/bikingtulips.jpeg' | url }}" alt="Wendy at the tulip fields" class="post-inline-image" />
 
 <img src="{{ '/images/posts/europe-wendy-tulips.jpg' | url }}" alt="Wendy sitting in a Dutch tulip field" class="post-inline-image" />
 
