@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title | default("Wendy King — Learning Design") }}</title>
+  <link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | url }}">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:wght@300;400;500&family=Bebas+Neue&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5W314LS1N"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-B5W314LS1N');
+  </script>
+</head>
+<body>
+
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <!-- NAV -->
+  <nav aria-label="Main navigation">
+    <a href="{{ '/' | url }}" class="nav-logo"><span class="first">Wendy</span><span class="last">King</span></a>
+    <ul class="nav-links">
+      <li><a href="{{ '/about/' | url }}">About</a></li>
+      <li><a href="{{ '/' | url }}#portfolio">Portfolio</a></li>
+      <li><a href="{{ '/posts/' | url }}">Blog</a></li>
+      <li><a href="{{ '/' | url }}#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main id="main-content">
+    {{ content | safe }}
+  </main>
+
+  <!-- FOOTER -->
+  <footer role="contentinfo">
+    <a href="{{ '/' | url }}" class="footer-logo"><span class="first">Wendy</span><span class="last">King</span></a>
+    <ul class="footer-links">
+      <li><a href="https://www.linkedin.com/in/wendy-king-875b7175/">LinkedIn</a></li>
+    </ul>
+    <span class="footer-copy">&copy; {{ page.date.getFullYear() }} Wendy King</span>
+  </footer>
+
+</body>
+</html>
