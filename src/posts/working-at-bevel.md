@@ -4,12 +4,15 @@ tags: post
 title: "Life Update: Working at Bevel!"
 date: 2026-08-31
 excerpt: "A LinkedIn comment turned into a phone call, and now I'm Head of Product & Customer Success at Bevel, an AI tool built to catch what used to take instructional designers months to find."
+thumbnail: "/images/posts/working-at-bevel.webp"
 ---
 
 <article class="post">
 <div class="section-inner">
 
 # Life Update: Working at Bevel!
+
+<img src="{{ '/images/posts/working-at-bevel.webp' | url }}" alt="Bevel homepage: 'The AI Workspace for Instructional Design Teams'" class="post-featured-image" />
 
 I met Louis, the CEO and co-founder of [Bevel](https://www.trybevel.ai/), on LinkedIn back in the spring. We commented on the same post, started talking in the replies, and then he asked if I wanted to hop on a call. For the record: this is the only time in my life I've agreed to get on a call with a LinkedIn stranger. I've had plenty of LinkedIn conversations before, sure, but none that actually led anywhere. Amazingly, this one did! Maybe LinkedIn CAN get you jobs (let's not talk about the probably 40+ other jobs I applied to that seemed to merely dissipate into the hellscape of that job-searching netherworld.)
 
